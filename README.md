@@ -1,6 +1,6 @@
 # Highly Available Kubernetes Cluster with kubeadm
 
-**Guide:** DevOps Shack\
+**Guide:** Kshitiz Pareek
 **Platform:** Ubuntu Linux VMs, kubeadm, containerd, HAProxy\
 **Topology:** 3 control-plane nodes, 3 worker nodes, 1 load-balancer VM
 
